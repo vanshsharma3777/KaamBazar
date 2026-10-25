@@ -16,9 +16,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "KaamBazar",
   description: "Direct Work. Zero Brokers. Total Transparency.",
-  icons:{
-    icon:'/logo.png'
-  }
+  icons: {
+    icon: "/kbLogo.png",
+  },
 };
 
 export default function RootLayout({
